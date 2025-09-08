@@ -8,7 +8,7 @@ export default function Projects2() {
                 <img className='' src="src/assets/images/Screenshot2.png" alt="" />
                 <div>
                     <h4 className='text-[#9857D3]'>Featured  Project</h4>
-                    <h5 className='text-white text-[30px]'>Example Project</h5>
+                    <h5 className='text-white text-[30px]'>Example Projects</h5>
                 </div>
             </div>
             <div className="z-10 absolute">
