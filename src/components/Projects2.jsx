@@ -1,4 +1,5 @@
 import React from 'react'
+import abd from "../assets/images/icon-park-solid.png"
 
 export default function Projects2() {
     return (
@@ -20,7 +21,7 @@ export default function Projects2() {
                 </div>
 
                 <div className='flex gap-[1em] mt-[2em]'>
-                    <img src="src/assets/images/icon-park-solid_click (1).png" alt="" />
+                    <img src={abd} alt="" />
                     <img src="src/assets/images/icon-park-solid_click (1).png" alt="" />
                 </div>
             </div>
